@@ -1,0 +1,8 @@
+
+{
+  "name": "MemeGenius AI",
+  "description": "An advanced AI-powered meme generator that uses Gemini to analyze images, suggest hilarious captions, and perform intelligent image edits through natural language.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
